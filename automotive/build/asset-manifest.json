@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61201299.css",
+    "main.js": "/static/js/main.79a15dc7.js",
+    "static/media/about-bckg2.png": "/static/media/about-bckg2.4057c71e25be850e73a6.png",
+    "static/media/hero-bckg.png": "/static/media/hero-bckg.8f04a52fe999afba8f94.png",
+    "static/media/daily-article.png": "/static/media/daily-article.5a0c6ebc0df9d7949258.png",
+    "static/media/auto-tips.png": "/static/media/auto-tips.3ac3b18859baaa04a5ac.png",
+    "static/media/social-tag.png": "/static/media/social-tag.335acb15dd2e22aa3177.png",
+    "static/media/clients.png": "/static/media/clients.b34727432343def352d1.png",
+    "static/media/accuracy-peak.png": "/static/media/accuracy-peak.af78063b3218a942d96c.png",
+    "index.html": "/index.html",
+    "main.61201299.css.map": "/static/css/main.61201299.css.map",
+    "main.79a15dc7.js.map": "/static/js/main.79a15dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61201299.css",
+    "static/js/main.79a15dc7.js"
+  ]
+}
